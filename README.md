@@ -66,4 +66,15 @@ git config --global user.email "youremail@domain.com"
 git config --list
 ```
 
+BASH previous commands execution
+```
+CTRL-R   and   type nmap   and  start typing
 
+ex.
+CTRL-R  , type nmap, type git....
+```
+
+Find a word inside a file in a directory
+```
+grep -r word_on_file *
+```
