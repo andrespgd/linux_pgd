@@ -77,4 +77,6 @@ CTRL-R  , type nmap, type git....
 Find a word inside a file in a directory
 ```
 grep -r word_on_file *
+OR
+grep -rnw -e 'word_on_file'
 ```
