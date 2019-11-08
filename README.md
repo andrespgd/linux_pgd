@@ -94,12 +94,13 @@ sudo apt update
 sudo apt install green-recorder
 ```
 
+UBUNTU install conda
+https://github.com/andrespgd/python_pgd/blob/master/_CONDA_README.md
+
+
 UBUNTU Screenshot shortcuts (pre-installed)
 ```
 Prt Scrn - desktop.
 Alt+Prt Scrn - window.
 Shift+Prt Scrn - area you select.
 ```
-
-
-
