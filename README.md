@@ -1,3 +1,4 @@
+# LINUX COMMANDS
 
 Find a folder
 ```
@@ -43,13 +44,9 @@ CURL lets you use wildcards to specify the URLs you want to download
 curl -L https://s3-us-west-1.amazonaws.com/udacity-robotics/Term+2+Resources/P3+Resources/models.tar.gz | tar zx -C ~/.gazebo/
 ```
 
-WGET can be used recursively and can recover when a download fails:
-
-UBUNTU screen recorder
+WGET can be used recursively and can recover when a download fails
 ```
-sudo add-apt-repository ppa:fossproject/ppa
-sudo apt update
-sudo apt install green-recorder
+https://github.com/andrespgd/linux_pgd/edit/master/README.md
 ```
 
 List all available HDDs/Partitions
@@ -69,7 +66,6 @@ git config --list
 BASH previous commands execution
 ```
 CTRL-R   and   type nmap   and  start typing
-
 ex.
 CTRL-R  , type nmap, type git....
 ```
@@ -81,9 +77,21 @@ OR
 grep -rnw -e 'word_on_file'
 ```
 
+# UBUNTU
+
+-install notepad-plus-plus
+  -set alias on .bashrc to npp
+
 Screenshot shortcuts
 ```
 Prt Scrn - desktop.
 Alt+Prt Scrn - window.
 Shift+Prt Scrn - area you select.
+```
+
+UBUNTU screen recorder
+```
+sudo add-apt-repository ppa:fossproject/ppa
+sudo apt update
+sudo apt install green-recorder
 ```
