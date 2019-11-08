@@ -80,3 +80,10 @@ grep -r word_on_file *
 OR
 grep -rnw -e 'word_on_file'
 ```
+
+Screenshot shortcuts
+```
+Prt Scrn - desktop.
+Alt+Prt Scrn - window.
+Shift+Prt Scrn - area you select.
+```
