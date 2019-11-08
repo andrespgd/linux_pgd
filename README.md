@@ -79,10 +79,15 @@ grep -rnw -e 'word_on_file'
 
 # UBUNTU
 
--install notepad-plus-plus
+UBUNTU install notepad-plus-plus
   -set alias on .bashrc to npp
 
-Screenshot shortcuts
+UBUNTU install nano text editor
+```
+sudo apt install nano
+```
+
+UBUNTU Screenshot shortcuts
 ```
 Prt Scrn - desktop.
 Alt+Prt Scrn - window.
@@ -95,3 +100,4 @@ sudo add-apt-repository ppa:fossproject/ppa
 sudo apt update
 sudo apt install green-recorder
 ```
+UBUNTU nano text editor
