@@ -87,17 +87,19 @@ UBUNTU install nano text editor
 sudo apt install nano
 ```
 
-UBUNTU Screenshot shortcuts
+UBUNTU install screen recorder
+```
+sudo add-apt-repository ppa:fossproject/ppa
+sudo apt update
+sudo apt install green-recorder
+```
+
+UBUNTU Screenshot shortcuts (pre-installed)
 ```
 Prt Scrn - desktop.
 Alt+Prt Scrn - window.
 Shift+Prt Scrn - area you select.
 ```
 
-UBUNTU screen recorder
-```
-sudo add-apt-repository ppa:fossproject/ppa
-sudo apt update
-sudo apt install green-recorder
-```
-UBUNTU nano text editor
+
+
