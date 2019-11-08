@@ -94,7 +94,7 @@ sudo apt update
 sudo apt install green-recorder
 ```
 
-UBUNTU install conda
+UBUNTU install conda</br>
 https://github.com/andrespgd/python_pgd/blob/master/_CONDA_README.md
 
 
