@@ -79,8 +79,8 @@ grep -rnw -e 'word_on_file'
 
 # UBUNTU
 
-UBUNTU install notepad-plus-plus
-  -set alias on .bashrc to npp
+UBUNTU install notepad-plus-plus</br>
+-set alias on .bashrc to npp
 
 UBUNTU install nano text editor
 ```
