@@ -3,7 +3,15 @@
 List all attached drives
 ```
 sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL
+sudo lshw -C disk
+sudo fdisk -l
 ```
+
+format SSD at /dev/sdc
+```
+sudo mkfs -t ext4 /dev/sdc
+```
+
 
 Find a folder
 ```
