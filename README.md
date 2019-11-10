@@ -1,5 +1,10 @@
 # LINUX COMMANDS
 
+List all attached drives
+```
+sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL
+```
+
 Find a folder
 ```
 find / -xdev 2>/dev/null -name "GeographicLib"
