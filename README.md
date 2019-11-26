@@ -1,9 +1,9 @@
 # LINUX COMMANDS
 
 Cheatsheet
-```
+
 https://files.fosswire.com/2007/08/fwunixref.pdf
-```
+
 
 List all attached drives
 ```
